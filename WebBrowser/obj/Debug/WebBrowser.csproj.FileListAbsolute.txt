@@ -1,0 +1,12 @@
+C:\Users\rc902698\AppData\Local\Temporary Projects\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\rc902698\AppData\Local\Temporary Projects\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\rc902698\AppData\Local\Temporary Projects\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\rc902698\AppData\Local\Temporary Projects\WebBrowser\obj\Debug\WebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\rc902698\AppData\Local\Temporary Projects\WebBrowser\obj\Debug\WebBrowser.Form1.resources
+C:\Users\rc902698\AppData\Local\Temporary Projects\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\rc902698\AppData\Local\Temporary Projects\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.Cache
+C:\Users\rc902698\AppData\Local\Temporary Projects\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\rc902698\AppData\Local\Temporary Projects\WebBrowser\obj\Debug\WebBrowser.pdb
+D:\workspace\Sample\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+D:\workspace\Sample\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+D:\workspace\Sample\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
